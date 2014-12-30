@@ -31,8 +31,8 @@
     {
         // Create two arrays filled with questions and answers
         // and make the pointers point to them
-        self.questions = @[@"Who's the best person around?",@"Really?",@"Are you sure?"];
-        self.answers = @[@"Rudradev",@"Yes!",@"Lol, no. I jokes."];
+        self.questions = @[@"What's the best time complexity of searching in a RBT?",@"How can you check for cycles in a linked list with no additional memory?",@"What's your topcoder handle?"];
+        self.answers = @[@"O(log N)",@"Use the runner technique",@"ronakshah94"];
     }
         // Return the address of the new object
         return self;
